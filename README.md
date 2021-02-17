@@ -1,4 +1,4 @@
-![tata's github stats](https://github-readme-stats.vercel.app/api?username=pf35301)
+![tata's github stats](https://github-readme-stats.vercel.app/api?username=8picomu)
 
 # Likes :sparkles:
 - C#
